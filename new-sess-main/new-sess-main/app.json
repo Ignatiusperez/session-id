@@ -1,8 +1,8 @@
 {
     "name": "🅱🅻🅰🅲🅺🅼🅰🅲🅷🅰🅽🆃-🅼🅳 Pairing",
     "description": "🅱🅻🅰🅲🅺🅼🅰🅲🅷🅰🅽🆃-🅼🅳 WA bot, Created by 🅱🅻🅰🅲🅺🅼🅰🅲🅷🅰🅽🆃-🅼🅳 KE",
-    "logo": "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-    "repository": "https://github.com/Beltahmd/Beltah-Sessions",
+    "logo": "https://i.imgur.com/BSerz8o.jpeg",
+    "repository": "https://github.com/Blackie254/black-super-bot",
     "keywords": ["LegacyMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
